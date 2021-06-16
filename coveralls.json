@@ -1,6 +1,0 @@
-{
-  "skip_files": [
-    "lib/alex_koin_web",
-    "test/support"
-  ]
-}
